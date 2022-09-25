@@ -7,6 +7,7 @@
 ### Instructions
 
 - Fork this repo to your github account
+- Don't forget to create your own .env file at the root folder (you can just copy the example)
 - Complete the tasks given
 - Once completed, create a PR to this repository
 
